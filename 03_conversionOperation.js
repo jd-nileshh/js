@@ -1,4 +1,4 @@
-// let score = "nIlesh"
+// let score = "33"
 
 // console.log(typeof score);
 
@@ -28,8 +28,54 @@ undefined => NaN
 "string" => true
 */
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let stringNumber = String(someNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+
+
+
+// ************OPERATIONS******************
+
+let value = 3;
+
+let negValue = -value;
+//console.log(negValue);
+/*
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2/2)
+console.log(2%2)
+console.log(2**3)
+*/
+
+let str1 = "hello "
+let str2 = "nilesh"
+
+let str3 = str1 + str2;
+// console.log(str3);
+
+// console.log("1" + 2);
+// console.log(typeof(1 + "2"))
+
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+// console.log(true);
+// console.log(+true);
+// console.log(false);
+// console.log(+"")
+
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
+
+
+
+
+
+
